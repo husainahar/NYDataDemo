@@ -162,7 +162,7 @@ class HomeCell: UITableViewCell{
     lazy var mainStack: UIStackView = {
         let im = UIStackView(arrangedSubviews: const.curentLang == 0 ? [self.sourceStack, self.dateStack] : [self.dateStack, self.sourceStack])
         im.axis = .horizontal
-        im.spacing = 0
+        im.spacing = 10
         im.distribution = UIStackView.Distribution.equalSpacing
         im.translatesAutoresizingMaskIntoConstraints = false
         
