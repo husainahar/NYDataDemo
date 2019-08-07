@@ -157,8 +157,6 @@
 				A697C19822F859DA00B80829 /* ENCODABLE */,
 				A697C19722F859D000B80829 /* DECODABLE */,
 				A697C19622F8598700B80829 /* EXTENSIONS */,
-				A697C19522F8597200B80829 /* MODEL */,
-				A697C19422F8596F00B80829 /* VIEW */,
 				A697C19322F8596D00B80829 /* CONTROLLER */,
 				A697C16522F8591A00B80829 /* AppDelegate.swift */,
 				A697C16C22F8591A00B80829 /* Assets.xcassets */,
@@ -195,20 +193,6 @@
 				A697C1AE22F89B4500B80829 /* SecondVC.swift */,
 			);
 			path = CONTROLLER;
-			sourceTree = "<group>";
-		};
-		A697C19422F8596F00B80829 /* VIEW */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = VIEW;
-			sourceTree = "<group>";
-		};
-		A697C19522F8597200B80829 /* MODEL */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = MODEL;
 			sourceTree = "<group>";
 		};
 		A697C19622F8598700B80829 /* EXTENSIONS */ = {

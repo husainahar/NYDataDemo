@@ -20,6 +20,8 @@ class HomeVC: BaseVC {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        print("VIEW DID LOAD")
+        
         hideUnhideNavBarItems("HOMEPAGE")
         hideBackBtn()
         
